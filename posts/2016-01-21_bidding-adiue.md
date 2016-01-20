@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Bidding Adieu!! :grinning:
+title: Bidding Adieu!!
 ---
 
 **Thanjavur**, place where i suddenly one day joined school after 18 yrs they said i am qualified to be pursue **Interesting Engineering**. Finally i am sitting in the first row of desk **P.R.Engineering College** <i class="icon-cog"></i> **Electrical & Electronic Engineering**  department suddenly campus interview’s happening, wanted only software engineering.
 
-<hr/>
+---
 
-###"I will become 'Programmer' even if i am qualified or not. will make my foot print on the wet cement."
+### "I will become 'Programmer' even if i am qualified or not. will make my foot print on the wet cement."
 
-<hr/>
+---
 
 **ProdEx Technologies** was coming to my college for interview. Somebody believed in me. Suddenly came and joined the Other freshers **eGrabber Inc.** I remember them **Debanka Basu** , **Jayachitra Sundaram** , **Saranya**, **Vidhya**, **Harini Munirathinam**.  
 
