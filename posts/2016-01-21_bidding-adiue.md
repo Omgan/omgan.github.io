@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bidding Adieu!!
+title: Bidding Adieu!! :grinning:
 ---
 
 **Thanjavur**, place where i suddenly one day joined school after 18 yrs they said i am qualified to be pursue **Interesting Engineering**. Finally i am sitting in the first row of desk **P.R.Engineering College** <i class="icon-cog"></i> **Electrical & Electronic Engineering**  department suddenly campus interview’s happening, wanted only software engineering.
