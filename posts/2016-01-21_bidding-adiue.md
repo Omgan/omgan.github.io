@@ -3,23 +3,20 @@ layout: post
 title: Bidding Adieu!!
 ---
 
-
-Bidding Adieu!!
-===================
-
 **Thanjavur**, place where i suddenly one day joined school after 18 yrs they said i am qualified to be pursue **Interesting Engineering**. Finally i am sitting in the first row of desk **P.R.Engineering College** <i class="icon-cog"></i> **Electrical & Electronic Engineering**  department suddenly campus interview’s happening, wanted only software engineering.
 
-----------
+<hr/>
 
-#"I will become 'Programmer' even if i am qualified or not. will make my foot print on the wet cement."
+###"I will become 'Programmer' even if i am qualified or not. will make my foot print on the wet cement."
 
-----------
+<hr/>
+
 **ProdEx Technologies** was coming to my college for interview. Somebody believed in me. Suddenly came and joined the Other freshers **eGrabber Inc.** I remember them **Debanka Basu** , **Jayachitra Sundaram** , **Saranya**, **Vidhya**, **Harini Munirathinam**.  
 
 
 Suddenly i was alone **Mylapore, Chennai** . None of my friend was here. At that point of time.
 
->![](https://raw.githubusercontent.com/Omgan/omgan.github.io/d74d819d1635c8b8401571c71c3ba274f6ffe487/img/20012016_1.jpg)
+![placeholder](https://raw.githubusercontent.com/Omgan/omgan.github.io/d74d819d1635c8b8401571c71c3ba274f6ffe487/img/20012016_1.jpg)
 
 
 Every-time i fear i remember this. Suddenly i am moved in to engineering team, Got **“Confirmed”**.
@@ -31,11 +28,11 @@ This is my first company, everybody is new to me, but i never got that feeling. 
 
 **Shanmuganathan Somasundaram** , **Murugavel Kumarave**, **Venkatesh Radhakrishnan** with them i worked most of the projects/Tasks. 
 
-----------
+<hr/>
 
-#"I had freedom to do my homework and my way of doing it."
+###"I had freedom to do my homework and my way of doing it."
 
-----------
+<hr/>
 
 **Sabapathy Prakasam**, **Benit Amala** , **Debanka Basu** , **Jayachitra Sundaram** , **Mir Faruk Ali**, **Ashok Babu Bodapati** , **Sai Dinesh Kaveti**, **Santhosh Kumar** , **Vijay Raj**, **Praveen Jesudhas** its been pleasure, but had less no of time working to gather on project. 
 
@@ -62,12 +59,12 @@ The Best :
 
 *Sorry*, to all whom i *#irritated* ,  to all who felt i am less #Confident, to all whom felt that is didn’t done my work properly, to all who feel i speak Louder , to all who feel i always see #negative perspective first than possibilities.
 
-----------
+<hr/>
 
-#"I feel pleasure to Thank you, to all of you who believed in me."
+###"I feel pleasure to Thank you, to all of you who believed in me."
 
-----------
+<hr/>
 
 
->![Thank you in all languages](https://raw.githubusercontent.com/Omgan/omgan.github.io/gh-pages/img/20012016_2.jpg)
+![placeholder](https://raw.githubusercontent.com/Omgan/omgan.github.io/gh-pages/img/20012016_2.jpg  "Thank you in all language")
 
