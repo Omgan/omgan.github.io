@@ -1,0 +1,14 @@
+.emoji {
+    width: 1em;
+    height: 1em;
+    vertical-align: baseline;
+}
+@media screen and (max-width: 1024px) {
+    #in {
+    display: none;
+    }
+    #out {
+    left: 0;
+    padding-left: 10px;
+    }
+}
