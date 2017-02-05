@@ -221,7 +221,8 @@ var CMS = {
 
 		// Put everything back together if broken
 		var contentData = data.join();
-		contentObj.contentData = marked(contentData);
+		//contentObj.contentData = marked(contentData);
+		contentObj.contentData = micromarkdown.parse(contentData);
 
 
 		if(type == 'post') {
