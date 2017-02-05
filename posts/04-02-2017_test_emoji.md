@@ -1,13 +1,11 @@
-<<<<<<< HEAD
-=======
 ---
 layout: default
 title: About
 ---
->>>>>>> origin/gh-pages
+
 # (GitHub-Flavored) Markdown Editor
 
-Basic useful feature list:
+Basic useful feature list: <i class="fa fa-address-book" aria-hidden="true"></i>
 
  * Ctrl+S / Cmd+S to save the file
  * Ctrl+Shift+S / Cmd+Shift+S to choose to save as Markdown or HTML
