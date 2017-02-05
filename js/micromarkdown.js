@@ -12,6 +12,11 @@
 
 /*jslint browser: true, node: true, plusplus: true, indent: 2, regexp: true, ass: true */
 /*global ActiveXObject, define */
+if (typeof String.prototype.trim != 'function') { // detect native implementation
+  String.prototype.trim = function () {
+    return this.replace(/^\s+/, '').replace(/\s+$/, '');
+  };
+}
 
 var micromarkdown = {
   useajax: false,
@@ -187,7 +192,7 @@ var micromarkdown = {
     /* links */
     while ((stra = micromarkdown.regexobject.links.exec(str)) !== null) {
       if (stra[0].substr(0, 1) === '!') {
-        str = str.replace(stra[0], '<img src="' + stra[2] + '" alt="' + stra[1] + '" title="' + stra[3] + '" />');
+        str = str.replace(stra[0], '<img src="' + stra[2] + '" alt="' + stra[1] + '" title="' + stra[3].trim().replace(/^"(.*)"$/, '$1') + '" />');
       } else {
         str = str.replace(stra[0], '<a ' + micromarkdown.mmdCSSclass(stra[2], strict) + 'href="' + stra[2] + '">' + stra[1] + '</a>');
       }
