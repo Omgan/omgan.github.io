@@ -64,5 +64,5 @@ The Best :
 <hr/>
 
 
-![placeholder](https://raw.githubusercontent.com/Omgan/omgan.github.io/gh-pages/img/20012016_2.jpg  "Thank you in all language")
+![placeholder](https://raw.githubusercontent.com/Omgan/omgan.github.io/gh-pages/img/20012016_2.jpg)
 
