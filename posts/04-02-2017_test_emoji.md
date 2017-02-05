@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+---
+layout: default
+title: About
+---
+>>>>>>> origin/gh-pages
 # (GitHub-Flavored) Markdown Editor
 
 Basic useful feature list:
