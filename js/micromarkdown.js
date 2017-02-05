@@ -186,7 +186,12 @@ var micromarkdown = {
     /* links */
     while ((stra = micromarkdown.regexobject.links.exec(str)) !== null) {
       if (stra[0].substr(0, 1) === '!') {
-        str = str.replace(stra[0], '<img src="' + stra[2] + '" alt="' + stra[1] + '" title="' + stra[3].replace(/^\s+/, '').replace(/\s+$/, '').replace(/^"(.*)"$/, '$1') + '" />');
+        var _TitleText = '';
+        if(typeof stra[3] != undefined)
+        {
+          _TitleText = stra[3].replace(/^\s+/, '').replace(/\s+$/, '').replace(/^"(.*)"$/, '$1')
+        }
+        str = str.replace(stra[0], '<img src="' + stra[2] + '" alt="' + stra[1] + '" title="' + _TitleText + '" />');
       } else {
         str = str.replace(stra[0], '<a ' + micromarkdown.mmdCSSclass(stra[2], strict) + 'href="' + stra[2] + '">' + stra[1] + '</a>');
       }
