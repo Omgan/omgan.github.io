@@ -187,7 +187,7 @@ var micromarkdown = {
     while ((stra = micromarkdown.regexobject.links.exec(str)) !== null) {
       if (stra[0].substr(0, 1) === '!') {
         var _TitleText = '';
-        if(typeof stra[3] != undefined)
+        if(stra[3])
         {
           _TitleText = stra[3].replace(/^\s+/, '').replace(/\s+$/, '').replace(/^"(.*)"$/, '$1')
         }
