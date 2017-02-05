@@ -14,7 +14,7 @@ title: Bidding Adieu!!
 
 Suddenly i was alone **Mylapore, Chennai** . None of my friend was here. At that point of time.
 
-![placeholder](https://raw.githubusercontent.com/Omgan/omgan.github.io/d74d819d1635c8b8401571c71c3ba274f6ffe487/img/20012016_1.jpg)
+![placeholder](https://raw.githubusercontent.com/Omgan/omgan.github.io/d74d819d1635c8b8401571c71c3ba274f6ffe487/img/20012016_1.jpg "Fear")
 
 
 Every-time i fear i remember this. Suddenly i am moved in to engineering team, Got **“Confirmed”**.
@@ -63,5 +63,5 @@ The Best :
 
 <hr/>
 
-![placeholder](https://raw.githubusercontent.com/Omgan/omgan.github.io/gh-pages/img/20012016_2.jpg)
+![placeholder](https://raw.githubusercontent.com/Omgan/omgan.github.io/gh-pages/img/20012016_2.jpg "Thank You in All Languages")
 
