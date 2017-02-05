@@ -129,7 +129,7 @@ var CMS = {
 
 				CMS.settings.mainContainer.html($tpl).hide().fadeIn(CMS.settings.fadeSpeed);
 
-				emojify.run($tpl.find('.post-content'));
+				emojify.run();
 			}
 		});
 		CMS.renderFooter();
