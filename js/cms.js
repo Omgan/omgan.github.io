@@ -128,6 +128,8 @@ var CMS = {
 				$tpl.find('.post-content').html(post.contentData);
 
 				CMS.settings.mainContainer.html($tpl).hide().fadeIn(CMS.settings.fadeSpeed);
+
+				emojify.run($tpl.find('.post-content'));
 			}
 		});
 		CMS.renderFooter();
