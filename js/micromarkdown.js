@@ -16,7 +16,7 @@ var micromarkdown = {
   useajax: false,
   regexobject: {
     headline: /^(\#{1,6})([^\#\n]+)$/m,
-    code: /\s\`\`\`\n?([^`]+)\`\`\`/g,
+    code: /^( {4}[^\n]+\n*)+/g,
     hr: /^(?:([\*\-_] ?)+)\1\1$/gm,
     lists: /^((\s*((\*|\-)|\d(\.|\))) [^\n]+)\n)+/gm,
     bolditalic: /(?:([\*_~]{1,3}))([^\*_~\n]+[^\*_~\s])\1/g,
